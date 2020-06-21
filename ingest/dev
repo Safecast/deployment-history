@@ -1,6 +1,16 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-06-21T08:46:30.445558+00:00",
+    "env": "dev",
+    "event": "same_env",
+    "web": {
+      "env": "env2"
+    },
+    "wrk": {}
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-21T08:40:47.802467+00:00",
     "env": "dev",
     "event": "same_env",
