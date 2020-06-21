@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "app": "ingest",
+    "completed_at": "2020-06-21T08:40:47.802467+00:00",
+    "env": "dev",
+    "event": "same_env",
+    "web": {
+      "env": "env1"
+    },
+    "wrk": {}
+  }
+]
