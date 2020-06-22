@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "app": "ingest",
+    "completed_at": "2020-06-22T03:19:17.320981+00:00",
+    "env": "dev",
+    "event": "same_env",
+    "web": {
+      "env": "safecastingest-dev-004",
+      "new_version": "ingest-master-114",
+      "old_version": "ingest-master-114"
+    },
+    "wrk": {
+      "env": "safecastingest-dev-wrk-003",
+      "new_version": "ingest-master-114",
+      "old_version": "ingest-master-114"
+    }
+  }
+]
