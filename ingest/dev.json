@@ -1,6 +1,52 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-06-23T12:16:23.160508+00:00",
+    "elapsed_time": 1111.394249,
+    "env": "dev",
+    "event": "new_env",
+    "started_at": "2020-06-23T11:57:51.766259+00:00",
+    "web": {
+      "github_diff": "https://github.com/Safecast/ingest/compare/4b1d1e66c59b98e2b617aa989ca015081d306075..7b37efa79b5a7339f16267528270591005b26f7a",
+      "new_env": "safecastingest-dev-008",
+      "new_version": "ingest-add-git-version-119-7b37efa79b5a7339f16267528270591005b26f7a",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "119",
+        "clean_branch_name": "add-git-version",
+        "git_commit": "7b37efa79b5a7339f16267528270591005b26f7a"
+      },
+      "old_env": "safecastingest-dev-004",
+      "old_version": "ingest-add-git-version-117-4b1d1e66c59b98e2b617aa989ca015081d306075",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "117",
+        "clean_branch_name": "add-git-version",
+        "git_commit": "4b1d1e66c59b98e2b617aa989ca015081d306075"
+      }
+    },
+    "wrk": {
+      "github_diff": "https://github.com/Safecast/ingest/compare/7b37efa79b5a7339f16267528270591005b26f7a..7b37efa79b5a7339f16267528270591005b26f7a",
+      "new_env": "safecastingest-dev-wrk-008",
+      "new_version": "ingest-add-git-version-119-7b37efa79b5a7339f16267528270591005b26f7a",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "119",
+        "clean_branch_name": "add-git-version",
+        "git_commit": "7b37efa79b5a7339f16267528270591005b26f7a"
+      },
+      "old_env": "safecastingest-dev-wrk-007",
+      "old_version": "ingest-add-git-version-119-7b37efa79b5a7339f16267528270591005b26f7a",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "119",
+        "clean_branch_name": "add-git-version",
+        "git_commit": "7b37efa79b5a7339f16267528270591005b26f7a"
+      }
+    }
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-23T08:42:27.742012+00:00",
     "elapsed_time": 223.948416,
     "env": "dev",
