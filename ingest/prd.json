@@ -1,6 +1,48 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-06-28T12:51:44.407095+00:00",
+    "elapsed_time": 1130.975247,
+    "env": "prd",
+    "event": "new_env",
+    "started_at": "2020-06-28T12:32:53.431848+00:00",
+    "web": {
+      "new_env": "safecastingest-prd-003",
+      "new_version": "ingest-master-125-87c470c12dcfae78ffec1236969ee742b08867ca",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "125",
+        "clean_branch_name": "master",
+        "git_commit": "87c470c12dcfae78ffec1236969ee742b08867ca"
+      },
+      "old_env": "safecastingest-prd-002",
+      "old_version": "ingest-master-109",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "109",
+        "clean_branch_name": "master"
+      }
+    },
+    "wrk": {
+      "new_env": "safecastingest-prd-wrk-003",
+      "new_version": "ingest-master-125-87c470c12dcfae78ffec1236969ee742b08867ca",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "125",
+        "clean_branch_name": "master",
+        "git_commit": "87c470c12dcfae78ffec1236969ee742b08867ca"
+      },
+      "old_env": "safecastingest-prd-wrk-001",
+      "old_version": "ingest-master-109",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "109",
+        "clean_branch_name": "master"
+      }
+    }
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-28T12:33:09.126381+00:00",
     "elapsed_time": 6.888489,
     "env": "prd",
