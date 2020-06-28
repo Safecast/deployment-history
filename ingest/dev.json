@@ -1,6 +1,17 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-06-28T07:39:37.144600+00:00",
+    "elapsed_time": 6.549432,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastingest-dev-wrk-009",
+    "started_at": "2020-06-28T07:39:30.595168+00:00",
+    "template_name": "dev-wrk"
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-25T12:17:26.403534+00:00",
     "elapsed_time": 1071.223711,
     "env": "dev",
