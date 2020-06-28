@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "app": "api",
+    "completed_at": "2020-06-28T07:49:56.569375+00:00",
+    "elapsed_time": 6.684848,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastapi-dev-wrk-030",
+    "started_at": "2020-06-28T07:49:49.884527+00:00",
+    "template_name": "dev-wrk"
+  },
+  {
+    "app": "api",
+    "completed_at": "2020-06-28T07:49:49.884501+00:00",
+    "elapsed_time": 7.079241,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-dev-022",
+    "started_at": "2020-06-28T07:49:42.805260+00:00",
+    "template_name": "dev"
+  },
+  {
+    "app": "api",
+    "completed_at": "2020-06-28T07:49:29.129274+00:00",
+    "elapsed_time": 6.782727,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastapi-dev-wrk-030",
+    "started_at": "2020-06-28T07:49:22.346547+00:00",
+    "template_name": "dev-wrk"
+  },
+  {
+    "app": "api",
+    "completed_at": "2020-06-28T07:49:22.346534+00:00",
+    "elapsed_time": 7.285439,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-dev-022",
+    "started_at": "2020-06-28T07:49:15.061095+00:00",
+    "template_name": "dev"
+  }
+]
