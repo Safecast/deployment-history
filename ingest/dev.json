@@ -1,6 +1,28 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-06-28T07:48:57.797933+00:00",
+    "elapsed_time": 6.67213,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastingest-dev-wrk-009",
+    "started_at": "2020-06-28T07:48:51.125803+00:00",
+    "template_name": "dev-wrk"
+  },
+  {
+    "app": "ingest",
+    "completed_at": "2020-06-28T07:48:51.125779+00:00",
+    "elapsed_time": 7.528103,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastingest-dev-009",
+    "started_at": "2020-06-28T07:48:43.597676+00:00",
+    "template_name": "dev"
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-28T07:39:37.144600+00:00",
     "elapsed_time": 6.549432,
     "env": "dev",
