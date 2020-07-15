@@ -1,6 +1,50 @@
 [
   {
     "app": "api",
+    "completed_at": "2020-07-15T00:16:31.416870+00:00",
+    "elapsed_time": 386.090603,
+    "env": "dev",
+    "event": "same_env",
+    "started_at": "2020-07-15T00:10:05.326267+00:00",
+    "web": {
+      "env": "safecastapi-dev-022",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/e666c1461233c139d25ec5f75b72608f92cd4afb..fc7bdfe2ba738f73c24017e979cdeca2f1d140cd",
+      "new_version": "api-block-ips-nginx-1054-fc7bdfe2ba738f73c24017e979cdeca2f1d140cd",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1054",
+        "clean_branch_name": "block-ips-nginx",
+        "git_commit": "fc7bdfe2ba738f73c24017e979cdeca2f1d140cd"
+      },
+      "old_version": "api-master-1038-e666c1461233c139d25ec5f75b72608f92cd4afb",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1038",
+        "clean_branch_name": "master",
+        "git_commit": "e666c1461233c139d25ec5f75b72608f92cd4afb"
+      }
+    },
+    "wrk": {
+      "env": "safecastapi-dev-wrk-030",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/e666c1461233c139d25ec5f75b72608f92cd4afb..fc7bdfe2ba738f73c24017e979cdeca2f1d140cd",
+      "new_version": "api-block-ips-nginx-1054-fc7bdfe2ba738f73c24017e979cdeca2f1d140cd",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1054",
+        "clean_branch_name": "block-ips-nginx",
+        "git_commit": "fc7bdfe2ba738f73c24017e979cdeca2f1d140cd"
+      },
+      "old_version": "api-master-1038-e666c1461233c139d25ec5f75b72608f92cd4afb",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1038",
+        "clean_branch_name": "master",
+        "git_commit": "e666c1461233c139d25ec5f75b72608f92cd4afb"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2020-07-09T05:46:41.133543+00:00",
     "elapsed_time": 425.191493,
     "env": "dev",
