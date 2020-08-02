@@ -1,6 +1,28 @@
 [
   {
     "app": "api",
+    "completed_at": "2020-08-02T11:31:03.260623+00:00",
+    "elapsed_time": 7.214092,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastapi-dev-wrk-031",
+    "started_at": "2020-08-02T11:30:56.046531+00:00",
+    "template_name": "dev-wrk"
+  },
+  {
+    "app": "api",
+    "completed_at": "2020-08-02T11:30:56.046505+00:00",
+    "elapsed_time": 7.024754,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-dev-031",
+    "started_at": "2020-08-02T11:30:49.021751+00:00",
+    "template_name": "dev"
+  },
+  {
+    "app": "api",
     "completed_at": "2020-07-17T04:42:16.468766+00:00",
     "elapsed_time": 344.714166,
     "env": "dev",
