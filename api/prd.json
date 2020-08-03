@@ -1,6 +1,52 @@
 [
   {
     "app": "api",
+    "completed_at": "2020-08-03T12:22:43.237194+00:00",
+    "elapsed_time": 1497.408605,
+    "env": "prd",
+    "event": "new_env",
+    "started_at": "2020-08-03T11:57:45.828589+00:00",
+    "web": {
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/03773fc6df19ac299e0d202b5eee8f9f6aa5835e...6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8",
+      "new_env": "safecastapi-prd-007",
+      "new_version": "api-master-1073-6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1073",
+        "clean_branch_name": "master",
+        "git_commit": "6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8"
+      },
+      "old_env": "safecastapi-prd-003",
+      "old_version": "api-master-1059-03773fc6df19ac299e0d202b5eee8f9f6aa5835e",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1059",
+        "clean_branch_name": "master",
+        "git_commit": "03773fc6df19ac299e0d202b5eee8f9f6aa5835e"
+      }
+    },
+    "wrk": {
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/03773fc6df19ac299e0d202b5eee8f9f6aa5835e...6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8",
+      "new_env": "safecastapi-prd-wrk-007",
+      "new_version": "api-master-1073-6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1073",
+        "clean_branch_name": "master",
+        "git_commit": "6e8cd2b009a689ee14a3f1caeb3d177b4470e7e8"
+      },
+      "old_env": "safecastapi-prd-wrk-006",
+      "old_version": "api-master-1059-03773fc6df19ac299e0d202b5eee8f9f6aa5835e",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1059",
+        "clean_branch_name": "master",
+        "git_commit": "03773fc6df19ac299e0d202b5eee8f9f6aa5835e"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2020-08-03T11:58:03.549634+00:00",
     "elapsed_time": 7.165028,
     "env": "prd",
