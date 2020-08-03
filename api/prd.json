@@ -1,6 +1,28 @@
 [
   {
     "app": "api",
+    "completed_at": "2020-08-03T11:58:03.549634+00:00",
+    "elapsed_time": 7.165028,
+    "env": "prd",
+    "event": "save_configs",
+    "role": "wrk",
+    "source_env_name": "safecastapi-prd-wrk-006",
+    "started_at": "2020-08-03T11:57:56.384606+00:00",
+    "template_name": "prd-wrk"
+  },
+  {
+    "app": "api",
+    "completed_at": "2020-08-03T11:57:56.384591+00:00",
+    "elapsed_time": 7.511476,
+    "env": "prd",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-prd-003",
+    "started_at": "2020-08-03T11:57:48.873115+00:00",
+    "template_name": "prd"
+  },
+  {
+    "app": "api",
     "completed_at": "2020-07-17T05:19:58.498182+00:00",
     "elapsed_time": 425.39913,
     "env": "prd",
