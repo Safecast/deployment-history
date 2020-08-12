@@ -1,0 +1,13 @@
+[
+  {
+    "app": "reporting",
+    "completed_at": "2020-08-12T14:22:07.999064+00:00",
+    "elapsed_time": 7.878219,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastrpt-dev-002",
+    "started_at": "2020-08-12T14:22:00.120845+00:00",
+    "template_name": "dev"
+  }
+]
