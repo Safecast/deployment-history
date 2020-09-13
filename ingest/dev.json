@@ -1,6 +1,50 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2020-09-13T03:22:51.847884+00:00",
+    "elapsed_time": 303.952149,
+    "env": "dev",
+    "event": "same_env",
+    "started_at": "2020-09-13T03:17:47.895735+00:00",
+    "web": {
+      "env": "safecastingest-dev-009",
+      "github_diff": "https://github.com/Safecast/ingest/compare/87c470c12dcfae78ffec1236969ee742b08867ca...2eb749e463d42185647fdf515b81d5dc69617b48",
+      "new_version": "ingest-master-147-2eb749e463d42185647fdf515b81d5dc69617b48",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "147",
+        "clean_branch_name": "master",
+        "git_commit": "2eb749e463d42185647fdf515b81d5dc69617b48"
+      },
+      "old_version": "ingest-master-125-87c470c12dcfae78ffec1236969ee742b08867ca",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "125",
+        "clean_branch_name": "master",
+        "git_commit": "87c470c12dcfae78ffec1236969ee742b08867ca"
+      }
+    },
+    "wrk": {
+      "env": "safecastingest-dev-wrk-009",
+      "github_diff": "https://github.com/Safecast/ingest/compare/2eb749e463d42185647fdf515b81d5dc69617b48...2eb749e463d42185647fdf515b81d5dc69617b48",
+      "new_version": "ingest-master-147-2eb749e463d42185647fdf515b81d5dc69617b48",
+      "new_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "147",
+        "clean_branch_name": "master",
+        "git_commit": "2eb749e463d42185647fdf515b81d5dc69617b48"
+      },
+      "old_version": "ingest-master-147-2eb749e463d42185647fdf515b81d5dc69617b48",
+      "old_version_parsed": {
+        "app": "ingest",
+        "circleci_build_num": "147",
+        "clean_branch_name": "master",
+        "git_commit": "2eb749e463d42185647fdf515b81d5dc69617b48"
+      }
+    }
+  },
+  {
+    "app": "ingest",
     "completed_at": "2020-06-28T12:30:42.959965+00:00",
     "elapsed_time": 223.765652,
     "env": "dev",
