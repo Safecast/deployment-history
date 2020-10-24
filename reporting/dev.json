@@ -1,6 +1,32 @@
 [
   {
     "app": "reporting",
+    "completed_at": "2020-10-24T09:23:51.976360+00:00",
+    "elapsed_time": 112.249306,
+    "env": "dev",
+    "event": "same_env",
+    "started_at": "2020-10-24T09:21:59.727054+00:00",
+    "web": {
+      "env": "safecastreporting-dev-003",
+      "github_diff": "https://github.com/Safecast/reporting/compare/eb8d63b6dbfb2edd5409b9a5a0f009e77b633000...eaaf7f1c2bf74292035557b5681e8fcda44af22f",
+      "new_version": "reporting-master-325713523-eaaf7f1c2bf74292035557b5681e8fcda44af22f",
+      "new_version_parsed": {
+        "app": "reporting",
+        "circleci_build_num": "325713523",
+        "clean_branch_name": "master",
+        "git_commit": "eaaf7f1c2bf74292035557b5681e8fcda44af22f"
+      },
+      "old_version": "reporting-master-252329218-eb8d63b6dbfb2edd5409b9a5a0f009e77b633000",
+      "old_version_parsed": {
+        "app": "reporting",
+        "circleci_build_num": "252329218",
+        "clean_branch_name": "master",
+        "git_commit": "eb8d63b6dbfb2edd5409b9a5a0f009e77b633000"
+      }
+    }
+  },
+  {
+    "app": "reporting",
     "completed_at": "2020-09-13T11:21:29.232907+00:00",
     "elapsed_time": 113.105763,
     "env": "dev",
