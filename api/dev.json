@@ -1,6 +1,17 @@
 [
   {
     "app": "api",
+    "completed_at": "2021-11-14T16:38:33.467473+00:00",
+    "elapsed_time": 8.57843,
+    "env": "dev",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-dev-032",
+    "started_at": "2021-11-14T16:38:24.889043+00:00",
+    "template_name": "dev"
+  },
+  {
+    "app": "api",
     "completed_at": "2021-11-14T09:48:26.222761+00:00",
     "elapsed_time": 7.847406,
     "env": "dev",
