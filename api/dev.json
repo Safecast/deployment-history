@@ -1,6 +1,51 @@
 [
   {
     "app": "api",
+    "completed_at": "2021-11-20T15:04:14.990394+00:00",
+    "elapsed_time": 1368.255345,
+    "env": "dev",
+    "event": "new_env",
+    "started_at": "2021-11-20T14:41:26.735049+00:00",
+    "web": {
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/e25722726ec49013f778f6a41b677fc7e9cbc791...abaf8a30a56d861dee277fe437ea0746f64aecf0",
+      "new_env": "safecastapi-dev-033",
+      "new_version": "api-main-1500-abaf8a30a56d861dee277fe437ea0746f64aecf0",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1500",
+        "clean_branch_name": "main",
+        "git_commit": "abaf8a30a56d861dee277fe437ea0746f64aecf0"
+      },
+      "old_env": "safecastapi-dev-032",
+      "old_version": "api-use-insecure-download-1473-e25722726ec49013f778f6a41b677fc7e9cbc791",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1473",
+        "clean_branch_name": "use-insecure-download",
+        "git_commit": "e25722726ec49013f778f6a41b677fc7e9cbc791"
+      }
+    },
+    "wrk": {
+      "env": "safecastapi-dev-wrk-032",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/c1d4198876450566a6d45e45b2f79efec3c8ddb9...abaf8a30a56d861dee277fe437ea0746f64aecf0",
+      "new_version": "api-main-1500-abaf8a30a56d861dee277fe437ea0746f64aecf0",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1500",
+        "clean_branch_name": "main",
+        "git_commit": "abaf8a30a56d861dee277fe437ea0746f64aecf0"
+      },
+      "old_version": "api-use-insecure-download-1474-c1d4198876450566a6d45e45b2f79efec3c8ddb9",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1474",
+        "clean_branch_name": "use-insecure-download",
+        "git_commit": "c1d4198876450566a6d45e45b2f79efec3c8ddb9"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2021-11-20T14:41:36.872639+00:00",
     "elapsed_time": 7.338677,
     "env": "dev",
