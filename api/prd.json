@@ -1,6 +1,17 @@
 [
   {
     "app": "api",
+    "completed_at": "2021-11-21T07:34:47.922235+00:00",
+    "elapsed_time": 7.197126,
+    "env": "prd",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastapi-prd-007",
+    "started_at": "2021-11-21T07:34:40.725109+00:00",
+    "template_name": "prd"
+  },
+  {
+    "app": "api",
     "completed_at": "2021-05-28T04:25:52.607506+00:00",
     "elapsed_time": 385.132689,
     "env": "prd",
