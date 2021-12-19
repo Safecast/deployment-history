@@ -1,6 +1,50 @@
 [
   {
     "app": "api",
+    "completed_at": "2021-12-19T06:35:32.443728+00:00",
+    "elapsed_time": 464.833951,
+    "env": "prd",
+    "event": "same_env",
+    "started_at": "2021-12-19T06:27:47.609777+00:00",
+    "web": {
+      "env": "safecastapi-prd-008",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/5d921e738284d2a3cb79cbef44eb0f8153f62fea...6ef9aa16561659e3fbf2482367197bdf085da73b",
+      "new_version": "api-main-1560-6ef9aa16561659e3fbf2482367197bdf085da73b",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1560",
+        "clean_branch_name": "main",
+        "git_commit": "6ef9aa16561659e3fbf2482367197bdf085da73b"
+      },
+      "old_version": "api-main-1529-5d921e738284d2a3cb79cbef44eb0f8153f62fea",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1529",
+        "clean_branch_name": "main",
+        "git_commit": "5d921e738284d2a3cb79cbef44eb0f8153f62fea"
+      }
+    },
+    "wrk": {
+      "env": "safecastapi-prd-wrk-008",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/5d921e738284d2a3cb79cbef44eb0f8153f62fea...6ef9aa16561659e3fbf2482367197bdf085da73b",
+      "new_version": "api-main-1560-6ef9aa16561659e3fbf2482367197bdf085da73b",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1560",
+        "clean_branch_name": "main",
+        "git_commit": "6ef9aa16561659e3fbf2482367197bdf085da73b"
+      },
+      "old_version": "api-main-1529-5d921e738284d2a3cb79cbef44eb0f8153f62fea",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1529",
+        "clean_branch_name": "main",
+        "git_commit": "5d921e738284d2a3cb79cbef44eb0f8153f62fea"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2021-12-06T14:20:19.497927+00:00",
     "elapsed_time": 486.396449,
     "env": "prd",
