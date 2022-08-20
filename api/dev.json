@@ -1,6 +1,50 @@
 [
   {
     "app": "api",
+    "completed_at": "2022-08-20T13:55:23.068324+00:00",
+    "elapsed_time": 1028.711126,
+    "env": "dev",
+    "event": "same_env",
+    "started_at": "2022-08-20T13:38:14.357198+00:00",
+    "web": {
+      "env": "safecastapi-dev-034",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/78e02c2001f899885bca416b90467cd9b6d4f741...6a8413d91bcaf8da1bac6ca879d19bb5acdc501c",
+      "new_version": "api-dependabot_bundler_elasticsearch-1690-6a8413d91bcaf8da1bac6ca879d19bb5acdc501c",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1690",
+        "clean_branch_name": "dependabot_bundler_elasticsearch",
+        "git_commit": "6a8413d91bcaf8da1bac6ca879d19bb5acdc501c"
+      },
+      "old_version": "api-use-elastic_apm-yml-instead-1687-78e02c2001f899885bca416b90467cd9b6d4f741",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1687",
+        "clean_branch_name": "use-elastic_apm-yml-instead",
+        "git_commit": "78e02c2001f899885bca416b90467cd9b6d4f741"
+      }
+    },
+    "wrk": {
+      "env": "safecastapi-dev-wrk-034",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/78e02c2001f899885bca416b90467cd9b6d4f741...6a8413d91bcaf8da1bac6ca879d19bb5acdc501c",
+      "new_version": "api-dependabot_bundler_elasticsearch-1690-6a8413d91bcaf8da1bac6ca879d19bb5acdc501c",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1690",
+        "clean_branch_name": "dependabot_bundler_elasticsearch",
+        "git_commit": "6a8413d91bcaf8da1bac6ca879d19bb5acdc501c"
+      },
+      "old_version": "api-use-elastic_apm-yml-instead-1687-78e02c2001f899885bca416b90467cd9b6d4f741",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1687",
+        "clean_branch_name": "use-elastic_apm-yml-instead",
+        "git_commit": "78e02c2001f899885bca416b90467cd9b6d4f741"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2022-08-19T09:56:11.008100+00:00",
     "elapsed_time": 1028.248895,
     "env": "dev",
