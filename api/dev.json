@@ -1,6 +1,50 @@
 [
   {
     "app": "api",
+    "completed_at": "2022-08-22T14:53:51.771306+00:00",
+    "elapsed_time": 988.033284,
+    "env": "dev",
+    "event": "same_env",
+    "started_at": "2022-08-22T14:37:23.738022+00:00",
+    "web": {
+      "env": "safecastapi-dev-034",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/04aefe4cac9ac54a4bda32cf24d81c119931b74a...e8f012ccf81d38cbf8c649949a4f002e3b09bab9",
+      "new_version": "api-update-rails-to-6.0.4.1-1692-e8f012ccf81d38cbf8c649949a4f002e3b09bab9",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1692",
+        "clean_branch_name": "update-rails-to-6.0.4.1",
+        "git_commit": "e8f012ccf81d38cbf8c649949a4f002e3b09bab9"
+      },
+      "old_version": "api-main-1691-04aefe4cac9ac54a4bda32cf24d81c119931b74a",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1691",
+        "clean_branch_name": "main",
+        "git_commit": "04aefe4cac9ac54a4bda32cf24d81c119931b74a"
+      }
+    },
+    "wrk": {
+      "env": "safecastapi-dev-wrk-034",
+      "github_diff": "https://github.com/Safecast/safecastapi/compare/04aefe4cac9ac54a4bda32cf24d81c119931b74a...e8f012ccf81d38cbf8c649949a4f002e3b09bab9",
+      "new_version": "api-update-rails-to-6.0.4.1-1692-e8f012ccf81d38cbf8c649949a4f002e3b09bab9",
+      "new_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1692",
+        "clean_branch_name": "update-rails-to-6.0.4.1",
+        "git_commit": "e8f012ccf81d38cbf8c649949a4f002e3b09bab9"
+      },
+      "old_version": "api-main-1691-04aefe4cac9ac54a4bda32cf24d81c119931b74a",
+      "old_version_parsed": {
+        "app": "api",
+        "circleci_build_num": "1691",
+        "clean_branch_name": "main",
+        "git_commit": "04aefe4cac9ac54a4bda32cf24d81c119931b74a"
+      }
+    }
+  },
+  {
+    "app": "api",
     "completed_at": "2022-08-20T14:18:59.997408+00:00",
     "elapsed_time": 988.08427,
     "env": "dev",
