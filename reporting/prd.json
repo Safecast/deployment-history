@@ -1,6 +1,17 @@
 [
   {
     "app": "reporting",
+    "completed_at": "2024-07-25T03:31:40.104256+00:00",
+    "elapsed_time": 7.422494,
+    "env": "prd",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastreporting-prd-001",
+    "started_at": "2024-07-25T03:31:32.681762+00:00",
+    "template_name": "prd"
+  },
+  {
+    "app": "reporting",
     "completed_at": "2024-07-25T01:57:13.751132+00:00",
     "elapsed_time": 152.248464,
     "env": "prd",
