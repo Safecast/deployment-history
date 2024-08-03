@@ -1,6 +1,32 @@
 [
   {
     "app": "reporting",
+    "completed_at": "2024-08-03T05:11:44.159498+00:00",
+    "elapsed_time": 192.033503,
+    "env": "prd",
+    "event": "same_env",
+    "started_at": "2024-08-03T05:08:32.125995+00:00",
+    "web": {
+      "env": "safecastreporting-prd-001",
+      "github_diff": "https://github.com/Safecast/reporting/compare/08bb762b8f967ab06c64282db8d457f5a9498877...929a1dd4e20c646b19d6067cd779114e3b8372ac",
+      "new_version": "reporting-main-10225506750-929a1dd4e20c646b19d6067cd779114e3b8372ac",
+      "new_version_parsed": {
+        "app": "reporting",
+        "circleci_build_num": "10225506750",
+        "clean_branch_name": "main",
+        "git_commit": "929a1dd4e20c646b19d6067cd779114e3b8372ac"
+      },
+      "old_version": "reporting-main-1496936523-08bb762b8f967ab06c64282db8d457f5a9498877",
+      "old_version_parsed": {
+        "app": "reporting",
+        "circleci_build_num": "1496936523",
+        "clean_branch_name": "main",
+        "git_commit": "08bb762b8f967ab06c64282db8d457f5a9498877"
+      }
+    }
+  },
+  {
+    "app": "reporting",
     "completed_at": "2024-07-27T22:35:08.789163+00:00",
     "elapsed_time": 152.596095,
     "env": "prd",
