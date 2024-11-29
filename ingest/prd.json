@@ -1,6 +1,17 @@
 [
   {
     "app": "ingest",
+    "completed_at": "2024-11-29T22:07:09.629674+00:00",
+    "elapsed_time": 7.118269,
+    "env": "prd",
+    "event": "save_configs",
+    "role": "web",
+    "source_env_name": "safecastingest-prd-003",
+    "started_at": "2024-11-29T22:07:02.511405+00:00",
+    "template_name": "prd"
+  },
+  {
+    "app": "ingest",
     "completed_at": "2024-10-16T06:08:40.419267+00:00",
     "elapsed_time": 7.706029,
     "env": "prd",
